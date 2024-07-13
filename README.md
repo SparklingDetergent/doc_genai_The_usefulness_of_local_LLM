@@ -1,0 +1,2 @@
+# doc_genai_The_usefulness_of_local_LLM
+ローカルLLMの有用性について
